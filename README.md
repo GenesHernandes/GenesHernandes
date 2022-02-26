@@ -1,7 +1,7 @@
 ### Olá, eu sou a Genes Hernandes 👋
 
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
+
 
  <div>
   <a href="https://github.com/GenesHernandes">
